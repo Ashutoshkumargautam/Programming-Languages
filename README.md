@@ -5,3 +5,9 @@
 # JAVASCRIPT
 # PHP
 # SQL
+# C
+# C++
+# Boostrap
+# Python
+# java
+# assembly
