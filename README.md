@@ -1,7 +1,7 @@
 # Programming-Languages
 
-#HTML
-#CSS
-#JAVASCRIPT
-#PHP
-#SQL
+# HTML
+# CSS
+# JAVASCRIPT
+# PHP
+# SQL
